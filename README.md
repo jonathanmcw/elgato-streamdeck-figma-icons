@@ -1,4 +1,4 @@
-# streamdeck-figma-icons
+# elgato-streamdeck-figma-icons
 Figma icons for Elgato Stream Deck: https://www.elgato.com/en/gaming/stream-deck
 
 Each icon at 288px width and height.
